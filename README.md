@@ -7,9 +7,6 @@
 
 * Developed by [Diego Andrés](https://github.com/DiegoAndresCortes)
 
-## Features
-- Social Networks
-
 ## Requirements
 * HabboArt V1 can be installed on SMF 2.0.x
 
