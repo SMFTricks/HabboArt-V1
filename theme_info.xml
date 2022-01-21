@@ -4,9 +4,9 @@
 	<id>smftricks:ha1</id>
 	<version>1.1.1</version>
 	<!-- Theme name, used purely for aesthetics. -->
-	<name>HAv1</name>
+	<name>HabboArt v1</name>
 	<!-- Author: your email address or contact information. The name attribute is optional. -->
-	<author name="diegoandres_cortes@outlook.com">Diego Andrés</author>
+	<author name="SMF Tricks">admin@smftricks.com</author>
 	<!-- Website... where to get updates and more information. -->
 	<website>https://www.smftricks.com</website>
 	<!-- Template layers to use, defaults to "html,body". -->
